@@ -1,5 +1,24 @@
 # BloomBox
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Mukeshram-07/BloomBox)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mukeshram-07/BloomBox)
+
+## 📌 Overview
+
+## 📁 Project Structure
+
+```
+BloomBox/
+├── README.md
+├── index.html
+```
+
+## 🚀 Getting Started
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## 👤 Author
 
 **Mukeshram**
